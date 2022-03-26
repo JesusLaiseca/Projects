@@ -7,9 +7,10 @@
 	<!--<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>-->
 	<!-- Cuando se compile para ir a produccion Release se pasa a InProcess
 	<PropertyGroup Condition="'$(Configuration)' == 'Release' ">
-	 <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+
 	</PropertyGroup>
 	-->
+	<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>	  
    </PropertyGroup>
 
 </Project>

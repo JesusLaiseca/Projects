@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>NugetColaboracionVNF</RootNamespace>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <AssemblyName>NugetColaboracionVNF</AssemblyName>
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <Authors>Maldonados</Authors>
+    <Company>Jesus Maldonado Laiseca</Company>
+    <Description>Paquete de ejemplo CI/CD</Description>
+    <Copyright>Maldonados</Copyright>
+    <PackageProjectUrl>jesuslaiseca.com</PackageProjectUrl>
+    <PackageTags>ejemplo</PackageTags>
+    <RepositoryUrl>https://github.com/JesusLaiseca/Projects.git</RepositoryUrl>
+    <PackageLicenseExpression>jesuslaiseca</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

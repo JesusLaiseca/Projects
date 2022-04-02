@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstAspNetCoreApplication", "MyFirstAspNetCoreApplication\MyFirstAspNetCoreApplication.csproj", "{2DC88049-F9B3-4F19-9212-1B2830629A3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica21", "Practica21\Practica21.csproj", "{469E71C1-B80C-456C-889B-A3A22D93EFD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2DC88049-F9B3-4F19-9212-1B2830629A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DC88049-F9B3-4F19-9212-1B2830629A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DC88049-F9B3-4F19-9212-1B2830629A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DC88049-F9B3-4F19-9212-1B2830629A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469E71C1-B80C-456C-889B-A3A22D93EFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E71C1-B80C-456C-889B-A3A22D93EFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E71C1-B80C-456C-889B-A3A22D93EFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E71C1-B80C-456C-889B-A3A22D93EFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E17BD3D8-338A-4EF6-9588-2BFB42FBF4BF}
+		SolutionGuid = {3E0EE912-00B7-4120-B527-C139505AAC4F}
 	EndGlobalSection
 EndGlobal
